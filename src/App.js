@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div>
-      Pokračuji dál v kódu
+      Mergnul jsem větve
     </div>
   );
 }
