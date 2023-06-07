@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div>
-      oprava opětovná změny
+      pokračování v kódu
     </div>
   );
 }
